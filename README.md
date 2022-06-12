@@ -5,4 +5,4 @@
 
 > [서포트서버 바로가기](https://discord.gg/syvsfBcpxH)<br/>
 > [명령어목록 바로가기](https://github.com/coniser/ROKI/blob/main/Command_list.md)<br/>
-> [패치노트바로가기](https://github.com/coniser/ROKI/blob/main/Release%20Note.md)<br/>
+> [패치노트 바로가기](https://github.com/coniser/ROKI/blob/main/Release%20Note.md)<br/>
